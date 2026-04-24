@@ -110,4 +110,27 @@ This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this project with proper attribution.
 
+---
+## 👨‍💼 About Me
+I am currently a student in Audit, Control, and Business Intelligence with a strong interest in Data Engineering and Analytics.
+
+I am developing skills in building data pipelines, designing data warehouses, and transforming raw data into reliable, business-ready information.
+
+My focus areas include:
+- Data Warehousing  
+- ETL Pipeline Development  
+- SQL & Data Modeling  
+- Business Intelligence
+  
+I am continuously improving my skills through hands-on projects in data warehousing and analytics.
+I aim to become a Data Engineer while leveraging my business background to create data-driven solutions.
+
+## 📬 Contact
+- LinkedIn: www.linkedin.com/in/manar-abdellaoui  
+- GitHub:  https://github.com/manar09-abd
+
+---
+
+## ⭐ Support
+If you find this project useful, feel free to ⭐ the repository!
 
