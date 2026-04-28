@@ -110,4 +110,4 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
-SELECT * FROM bronze.erp_loc_a101;
+
